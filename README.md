@@ -2,7 +2,7 @@
 Curated list of my favourite Firefox Add-ons / Extensions
 
 ## Must haves
-- [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/: An excellent general purpose content blocker, ad blocker. I'm sometimes surprised when I'm using other people's browsers to see how different my version of the web has become thanks to this one extension.
+- [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): An excellent general purpose content blocker, ad blocker. I'm sometimes surprised when I'm using other people's browsers to see how different my version of the web has become thanks to this one extension.
 
 ## Good to have
 - [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/): Open source and free password manager. For an optional <1$ per month you can enable some additional features. If you don't already have a password manager, Bitwarden might be a good place to start.
