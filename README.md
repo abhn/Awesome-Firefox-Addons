@@ -1,4 +1,4 @@
-# Awesome-Firefox-Addons
+# Awesome Firefox Add-ons
 Curated list of my favourite Firefox Add-ons / Extensions
 
 ## Must haves
